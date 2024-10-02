@@ -51,3 +51,4 @@ label4.pack(side=tk.LEFT, pady=10)  # Empaquetar etiqueta en frame4 a la izquier
 
 ventana.mainloop()
 
+print("Esteban x Nicolas")
